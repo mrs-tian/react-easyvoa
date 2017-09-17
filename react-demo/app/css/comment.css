@@ -1,0 +1,15 @@
+.comment{
+	width: 1024px;
+	height: auto;
+	
+}
+.inp-cont{
+	width: 900px;
+	height: 60px;
+	float: left;
+}
+.sub{
+	float: left;
+	width: 124px;
+	height: 60px;
+}

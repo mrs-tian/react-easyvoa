@@ -1,0 +1,27 @@
+.header-list{
+	background: #fff;
+	border-top: 1px solid #FFE9D3
+}
+.header-li{
+	padding: 0 15px;
+	line-height: 38px;
+	float: left;
+	font-size: 10px;
+
+}
+.header-li-vertical{
+	text-align: center;
+	line-height: 38px;
+	clear: both;
+	font-size: 10px;
+}
+.header-li:hover{
+	color: red;
+}
+.header-li-vertical:hover{
+	color: red;
+}
+.header{
+	height: 215px;
+	border: 1px solid pink;
+}

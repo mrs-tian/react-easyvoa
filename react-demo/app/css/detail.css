@@ -1,0 +1,54 @@
+.text-title{
+	text-align: center;
+	line-height: 80px;
+	
+}
+.article-main{
+	width: 1024px;
+	height: auto;
+	margin: 0 auto;
+	border: 1px solid #ccc;
+	padding: 20px;
+	
+}
+.content-title{
+	background: #fff;
+    border-bottom: 1px dotted #bbb;
+    padding: 10px 0;
+}
+.content-title h1{
+	text-align: center;
+    line-height: 30px;
+    padding-bottom: 5px;
+    color: #007dc6;
+    font-size: 16px;
+
+}
+.head-info{ 
+	text-align: center;
+	line-height: 30px;
+	color: blue;
+}
+
+.content-main{
+	position: relative;
+	margin-top: 10px;
+    text-align: justify;
+    font-size: 12px;
+    line-height: 18px;
+}
+.adContent{
+	position: relative;
+	float: left;
+	top: 10px;
+	left: 10px;
+	width: 300px;
+	height: 300px;
+	border:1px solid black;
+	margin: 10px;
+}
+.content-text{
+	display: inline-block;
+	overflow: hidden;
+	background: #fff;
+}

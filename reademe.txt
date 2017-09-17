@@ -1,0 +1,3 @@
+demo npm run dev
+express  npm start  或是supervisor ./bin/www
+还需要 fiddler做数据绑定

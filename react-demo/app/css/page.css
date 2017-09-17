@@ -1,0 +1,100 @@
+@import "./reset.css";
+@import '../../node_modules/antd/dist/antd.css';
+
+body{
+	background: #EDF8FC url(../images/background.jpg) no-repeat;
+}
+.main {
+	width: 1024px;
+	margin: 0 auto;
+	line-height: 50px;
+	background: #fff;
+}
+
+.header-img {
+	display: block;
+	width: 110px;
+	margin: 6px auto 0 auto;
+}
+
+.header-menu {
+	line-height: 30px;
+}
+#big{
+	font-size: 12px;
+}
+
+.content-item {
+	line-height: 30px;
+	padding: 0 10px;
+	font-size: 14px;
+	color: green;
+}
+.content-item-date{
+	margin-left: 10px;
+}
+.content-item-category{
+	margin-right: 10px;
+}
+.content-item-new {
+	position: relative;
+	top: 10px;
+	left: 10px;
+	vertical-align: top;
+}
+.learn-menu {
+	text-align: center;
+	background: #fff;
+	line-height: 28px;
+	border-bottom: 1px solid #FFE9D3;
+	border-top: 1px solid #FFE9D3;
+}
+
+.learn-menu .menu-title{
+	border-right: 1px solid #FFE9D3;
+	background: #fff;
+}
+.ant-menu{
+	font-size: 10px;
+	line-height: 38px;
+	box-shadow: none;
+}
+#vertical{
+	clear: float;
+}
+.links{
+	width: 1024px;
+	margin: 0 auto;
+	border: 1px solid black;
+}
+.friends-link{
+	width: 1024px;
+	margin: 0 auto;
+	background: blue;
+	color: #fff;
+	padding-left: 40px;
+	line-height: 30px;
+}
+.footer{
+	border: 1px solid #aaa;
+	background: #eee;
+	margin-top: 4px;
+	text-align: center;
+	line-height: 30px;
+	font-size: 10px;
+}
+.auther{
+	color: orange;
+}
+.content-item-category:hover{
+	background: skyblue;
+	font-size: 15px;
+}
+.content-item-date:hover{
+	background: skyblue;
+	font-size: 15px;
+}
+.content-item-title:hover{
+	background: skyblue;
+	font-size: 15px;
+}
